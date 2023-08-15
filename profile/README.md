@@ -22,7 +22,9 @@ For the world, for a better future, we co-founded this project.
 
 ### Introduce
 
-We can provide you with the sub domain name of xxx.dshab.com.
+We can provide you with the sub domain name of dshab.com.
+
+For example, abc.dshab.com.
 
 We provide A records or CNAME record subdomains and use CloudFlare to protect your server from attacks.
 
