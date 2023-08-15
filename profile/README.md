@@ -66,4 +66,8 @@ If you are interested, please contact <admin@dshab.com>.
 
 > We don't just stop at this fun, pleasure-seeking project. When you join, we will notify you when we open other programs and choose you first.
 
+## Site statement
+
+We are based in the United States of America and serve Chinese people worldwide. The personnel included are all self submitted by others, and our organization does not assume any legal responsibility
+
 © 2023 Dshab Group.
