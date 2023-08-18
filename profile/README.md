@@ -41,28 +41,13 @@ Before you submit, you need to make sure your situation meets our requirements. 
 * You need to keep your applications running for a long time. In the event of multiple service interruptions, we will cancel the resolution of your subdomain.
 * You must deploy your applications legally, not from your home PC.
 
-There are strict formatting requirements to follow for your application:
-
-* You need to point out what the fools did, write it as best you can!
-* You need to identify yourself and leave your contact details so we can better communicate with you.
-* If authenticated, you have unlimited access to subdomains which begin with your name, which is discouraged but considered cool.
-
-The application format is as follows:
-
-* Your name
-* Your contact
-* Your project name
-* The type of subdomain you are applying for
-* What fools do (detailed description)
-* Fools' contact
-
 ## Join us
 
 As long as you love technology, have front-end basics, and are interested in learning Vue, etc. You can join our website maintenance team. 
 
 Even if you are not good at front-end, you can join our review team if your review is strict and honest.
 
-If you are interested, please contact <admin@dshab.com>.
+If you are interested, please go to: <https://sub.dshab.com/>.
 
 > We don't just stop at this fun, pleasure-seeking project. When you join, we will notify you when we open other programs and choose you first.
 
